@@ -1,2 +1,3 @@
 # Codsoft
-This is my first intership Git Repository
+This is my first intership Git Repository.
+In Codsoft
